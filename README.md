@@ -1,11 +1,15 @@
-# EXR_multipass
+<p align="center">
+  <img src="assets/logo.png" alt="EXR_multipass logo" width="200"/>
+</p>
+
+<h1 align="center">EXR Multipass</h1>
 
 A simple Blender add-on to easily create and manage EXR multipass outputs for compositing.
 
 
 **Download last release:**
 
-[![Download](https://img.shields.io/badge/Download-EXR_multipass-ff69b4?style=for-the-badge)](https://github.com/KoyomiRei/EXR_multipass/releases/latest)
+[![Download](https://img.shields.io/badge/Download-EXR_multipass-f474a7?style=for-the-badge)](https://github.com/KoyomiRei/EXR_multipass/releases/latest)
 
 
 
