@@ -2,6 +2,14 @@
 
 A simple Blender add-on to easily create and manage EXR multipass outputs for compositing.
 
+
+**Download last release:**
+
+[![Download](https://img.shields.io/badge/Download-EXR_multipass-ff69b4?style=for-the-badge)](https://github.com/KoyomiRei/EXR_multipass/releases/latest)
+
+
+
+
 ## Features
 
 - Automatically creates a Render Layers and File Output node setup configured for exporting multilayer EXR files
